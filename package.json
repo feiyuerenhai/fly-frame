@@ -1,8 +1,8 @@
 {
   "name": "fly-frame",
   "library": "FlyFrame",
-  "version": "0.0.1",
-  "description": "change input widgets into pure text",
+  "version": "0.0.2",
+  "description": "flyjs in vue",
   "author": "454570466@qq.com",
   "private": false,
   "keywords": [
